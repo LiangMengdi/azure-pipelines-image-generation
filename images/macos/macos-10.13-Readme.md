@@ -312,7 +312,7 @@ xcversion simulators --install='iOS 8.4'
 
 ### Visual Studio for Mac
 
-- 8.3.5.13
+- 8.3.7.1
 
 ### Mono
 
@@ -332,6 +332,7 @@ xcversion simulators --install='iOS 8.4'
 
 ### Xamarin.iOS SDK
 
+- 13.6.0.12
 - 13.4.0.2
 - 13.2.0.47
 - 12.14.0.114
@@ -353,6 +354,7 @@ xcversion simulators --install='iOS 8.4'
 
 ### Xamarin.Android SDK
 
+- 10.0.6.2
 - 10.0.3.0
 - 9.4.1.0
 - 9.3.0-23
@@ -371,6 +373,7 @@ xcversion simulators --install='iOS 8.4'
 
 ### Xamarin.Mac SDK
 
+- 6.6.0.12
 - 6.4.0.2
 - 6.2.0.47
 - 5.16.1.24
